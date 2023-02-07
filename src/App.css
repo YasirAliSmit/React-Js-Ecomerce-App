@@ -1,0 +1,153 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+/* Link style Start */
+.Link{
+  color: black;
+  text-decoration: none;
+  color: white !important;
+  font-weight: bolder;
+}
+.Links{
+  color: black;
+  text-decoration: none;
+
+  font-weight: bolder;
+}
+/* Link style End */
+/* intial Value style start */
+.int{
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+}
+/* intial Value style end  */
+.My-Nav{
+  background-color: #5f00ff;
+
+}
+.btn-light {
+  background-color: #383CC1 !important;
+  border-style: none !important;
+  color: white !important;
+  margin: 5px;
+  font-weight: bold !important;
+}
+.my-btn{
+  background-color: #5f00ff;
+}
+.my-light:hover{
+  background-color: white !important;
+}
+/* Login Screen Css :start */
+
+.App {
+  background-color: white;
+}
+
+.Auth-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100vw;
+  height: 100vh;
+}
+
+.Auth-form {
+  width: 420px;
+  box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  border-radius: 8px;
+  background-color: white;
+  padding: 15px;
+}
+
+.Auth-form-content {
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
+.Auth-form-title {
+  text-align: center;
+  margin-bottom: 1em;
+  font-size: 24px;
+  color: rgb(34, 34, 34);
+  font-weight: 800;
+}
+
+label {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(34, 34, 34);
+}
+/* sweet  alert  css start*/
+.swal-button{
+  background-color: #5f00ff !important;
+}
+/* sweet  alert  css end*/
+/* test css start */
+.test{
+  margin-top: 20px !important;
+}
+.drop{
+  background-color: white !important;
+  border-style: none !important;
+  width: 100% !important;
+}
+/* test css end */
+/* user Profile Css start */
+.user-profile{
+  background-color: #6F00ED !important;
+  padding: 5px;
+  border-radius: 15px;
+ box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px !important;
+}
+/* user Profile Css end */
+/* Add item Css Start */
+.add-item{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 25px;
+  border-radius: 15px !important;
+}
+/* Add item Css End */
+.item-button{
+border: 1px solid black;
+padding: 10px;
+border-radius: 15px;
+text-decoration: none !important;
+background-color: #5f00ff !important;
+border-style: none;
+color: white;
+font-weight: bold;
+margin: 0 2px !important;
+}
+.item-button:hover{
+background-color: white !important;
+color: black !important;
+
+}
+
+.Nav-button{
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 15px;
+  text-decoration: none !important;
+  background-color: blueviolet !important;
+  border-style: none;
+  color: white !important;
+  font-weight: bold;
+  margin: 5px 5px !important;
+  }
+  .Nav-button:hover{
+  background-color: white !important;
+  color: black !important;
+  
+  }
+  Link{
+    text-decoration: none !important;
+  }
