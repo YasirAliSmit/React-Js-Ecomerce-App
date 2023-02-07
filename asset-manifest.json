@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Js-Ecomerce-App/static/css/main.0069c3b4.css",
+    "main.js": "/React-Js-Ecomerce-App/static/js/main.a144c488.js",
+    "static/js/787.44a68382.chunk.js": "/React-Js-Ecomerce-App/static/js/787.44a68382.chunk.js",
+    "static/media/3.jpg": "/React-Js-Ecomerce-App/static/media/3.cba94c2142a2ddd4842e.jpg",
+    "static/media/4.jpg": "/React-Js-Ecomerce-App/static/media/4.c1df9798fd325b529fdf.jpg",
+    "static/media/2.jpg": "/React-Js-Ecomerce-App/static/media/2.14257062411d733c11f5.jpg",
+    "static/media/revicons.eot": "/React-Js-Ecomerce-App/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/React-Js-Ecomerce-App/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/React-Js-Ecomerce-App/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/React-Js-Ecomerce-App/index.html",
+    "main.0069c3b4.css.map": "/React-Js-Ecomerce-App/static/css/main.0069c3b4.css.map",
+    "main.a144c488.js.map": "/React-Js-Ecomerce-App/static/js/main.a144c488.js.map",
+    "787.44a68382.chunk.js.map": "/React-Js-Ecomerce-App/static/js/787.44a68382.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0069c3b4.css",
+    "static/js/main.a144c488.js"
+  ]
+}
